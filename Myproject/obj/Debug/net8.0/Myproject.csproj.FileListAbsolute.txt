@@ -1,0 +1,15 @@
+/workspaces/cssharproject/Myproject/bin/Debug/net8.0/Myproject
+/workspaces/cssharproject/Myproject/bin/Debug/net8.0/Myproject.deps.json
+/workspaces/cssharproject/Myproject/bin/Debug/net8.0/Myproject.runtimeconfig.json
+/workspaces/cssharproject/Myproject/bin/Debug/net8.0/Myproject.dll
+/workspaces/cssharproject/Myproject/bin/Debug/net8.0/Myproject.pdb
+/workspaces/cssharproject/Myproject/obj/Debug/net8.0/Myproject.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cssharproject/Myproject/obj/Debug/net8.0/Myproject.AssemblyInfoInputs.cache
+/workspaces/cssharproject/Myproject/obj/Debug/net8.0/Myproject.AssemblyInfo.cs
+/workspaces/cssharproject/Myproject/obj/Debug/net8.0/Myproject.csproj.CoreCompileInputs.cache
+/workspaces/cssharproject/Myproject/obj/Debug/net8.0/Myproject.sourcelink.json
+/workspaces/cssharproject/Myproject/obj/Debug/net8.0/Myproject.dll
+/workspaces/cssharproject/Myproject/obj/Debug/net8.0/refint/Myproject.dll
+/workspaces/cssharproject/Myproject/obj/Debug/net8.0/Myproject.pdb
+/workspaces/cssharproject/Myproject/obj/Debug/net8.0/Myproject.genruntimeconfig.cache
+/workspaces/cssharproject/Myproject/obj/Debug/net8.0/ref/Myproject.dll
